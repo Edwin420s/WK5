@@ -1,0 +1,1 @@
+DROP INDEX IdxPhone ON customers;
