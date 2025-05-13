@@ -1,0 +1,1 @@
+GRANT INSERT ON salesDB.* TO 'bob'@'localhost';
